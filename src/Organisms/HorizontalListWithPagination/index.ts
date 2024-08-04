@@ -1,0 +1,3 @@
+import HorizontalListWithPagination from "./HorizontalListWithPagination";
+
+export default HorizontalListWithPagination
